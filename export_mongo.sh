@@ -6,5 +6,5 @@ DIR=`date +%m%d%y`
 DEST=mongodb/graylog_mongodb_$DIR
 mkdir $DEST
 mongodump -o $DEST
-tar czf /logs/exports/mongodb/graylog_mongodb_$DIR.tgz $DEST
+tar czf mongodb/graylog_mongodb_$DIR.tgz $DEST
 rm -rf $DEST
