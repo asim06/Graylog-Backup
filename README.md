@@ -1,0 +1,2 @@
+# Graylog-Backup
+Graylog yedeklemesi
