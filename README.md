@@ -12,5 +12,5 @@ export.sh betiğinde bulunan EXPORT_PATH değişkeni için, EXPORT_PATH="Oluştu
 
 
 
-### Tübitak Bilgem Siber Güvenlik Enstitüsü'nden Necati Ersen Siseci  hocamın yardımlarına teşekkür ederim.
+### Tübitak Bilgem Siber Güvenlik Enstitüsü'nden Necati Ersen Siseci  hocama yardımlarından dolayı teşekkür ederim.
 
