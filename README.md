@@ -4,4 +4,4 @@
 #### npm install -g elasticsearch-tools
 
 
-Graylog yedeklemesi
+Tübitak Bilgem Siber Güvenlik Enstitüsü'nden Necati Ersen Siseci  hocamın yardımlarına teşekkür ederim.
