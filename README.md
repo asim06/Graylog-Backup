@@ -10,6 +10,8 @@ export_mongo.sh betiğinde bulunan dest değişkeni için, DEST=mongodb/graylog_
 
 export.sh betiğinde bulunan EXPORT_PATH değişkeni için, EXPORT_PATH="Oluşturduğunuz dizinin yolunu verin"
 
+## https://www.asimmisirli.com/graylog-yedekleme-uygulamasi/ detaylı kurulum bilgisi için yazımdan bakabilirsiniz
+
 
 
 ### Tübitak Bilgem Siber Güvenlik Enstitüsü'nden Necati Ersen Siseci  hocama yardımlarından dolayı teşekkür ederim.
